@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>20160214_001343.CSV</name>
+    <description>ftp://ftp.geonet.org.nz/strong/processed/Proc/2016/</description>
+    <Placemark>
+      <name>NBLC</name>
+      <description>New Brighton Library</description>
+      <Point>
+        <coordinates>172.73135376,-43.506858826,0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-02-14</MetaData>
+      <MetaData name="Time (UT)">00:13:43</MetaData>
+      <MetaData name="Magnitude">5.7</MetaData>
+      <MetaData name="PGA Vertical (%g)">36.2756</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">18.231</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">21.2096</MetaData>
+    </Placemark>
+  </Document>
+</kml>
