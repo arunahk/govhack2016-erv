@@ -3,7 +3,7 @@ var csv = require('csv');
 var PD = require('pretty-data').pd;
 var format = require('string-template');
 
-var FILEPATH = __dirname+'/../..';
+var FILEPATH = __dirname+'/../../..';
 var INPUTFILE = FILEPATH+'/'+'20160214_001343.CSV';
 var OUTFILE = FILEPATH+'/'+'20160214_001343.kml';
 
@@ -34,9 +34,8 @@ var placeTemplate = '<Placemark>\
 ';
 
 
-//var generator = csv.generate({seed: 1, columns: 2, length: 20});
 var reader = fs.createReadStream(INPUTFILE);
-//
+
 var parser = csv.parse({delimiter: ','});
 
 var transformer = csv.transform(function(data){
@@ -96,39 +95,9 @@ parser.on('readable', function(){
     // process.stdout.write(PD.xml(place)+'\n')
   }
   // save file
-  fs.writeFileSync(OUTFILE, format(kmlDocTemplate, {'PLACEMARKS':places}));
+  fs.writeFileSync(OUTFILE, PD.xml(format(kmlDocTemplate, {'PLACEMARKS': places})));
 
   // verify saved file content
-  process.stdout.write(PD.xml(fs.readFileSync(OUTFILE).toString()));
+  process.stdout.write(fs.readFileSync(OUTFILE));
 });
-
-// var stringifier = csv.stringify();
-
-// transformer.on('readable', function(){
-//   while(data = transformer.read()){
-//     stringifier.write(data);
-//   }
-// });
-
-// stringifier.on('readable', function(){
-//   while(data = stringifier.read()){
-//     process.stdout.write(data)
-//     // fill kml placemark
-//     var place = format(placeTemplate, {
-//       'NAME': data[15],
-//       'DESCRIPTION': data[16],
-//       'LANG': data[18],
-//       'LONG': data[17],
-//       'ELEVATION': data[19],
-//       'DATATYPE': 'Sensor',
-//       'DATE': data[0],
-//       'TIME': data[1],
-//       'MAGNITUDE': data[4],
-//       'PGA_V': data[11],
-//       'PGAH1': data[12],
-//       'PAGH2': data[13]
-//     });
-//     process.stdout.write(PD.xml(place)+'\n')
-//   }
-// });
 
