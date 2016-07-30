@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>20160127_232441.CSV</name>
+    <description>ftp://ftp.geonet.org.nz/strong/processed/Proc/2016/</description>
+    <Placemark>
+      <name>TPLC</name>
+      <description>Templeton School</description>
+      <Point>
+        <coordinates>172.471954205,-43.549997156,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">4.0081</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">3.1320</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">4.5489</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>RHSC</name>
+      <description>Riccarton High School</description>
+      <Point>
+        <coordinates>172.564404,-43.536172,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.7049</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">3.4008</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.9817</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>HHSS</name>
+      <description>Hillmorton High School</description>
+      <Point>
+        <coordinates>172.5928,-43.5575,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">2.7341</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">4.8507</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">7.0802</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>CACS</name>
+      <description>Christchurch Canterbury Aero Club</description>
+      <Point>
+        <coordinates>172.530015293,-43.483175585,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">3.5794</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">2.5932</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">3.4796</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>LINC</name>
+      <description>Lincoln Crop and Food Research</description>
+      <Point>
+        <coordinates>172.46800379,-43.623179038,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.3016</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.8156</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.7225</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>MORS</name>
+      <description>Moorhouse Ave Christchurch</description>
+      <Point>
+        <coordinates>172.6214,-43.5395,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.2410</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">2.1937</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">3.2304</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>CBGS</name>
+      <description>Christchurch Botanic Gardens</description>
+      <Point>
+        <coordinates>172.619876237,-43.52934701,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.0426</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.3564</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.0269</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>CMHS</name>
+      <description>Christchurch Cashmere High School</description>
+      <Point>
+        <coordinates>172.624176115,-43.565617957,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.5673</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.0994</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.5804</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>SACS</name>
+      <description>St Andrews College Christchurch</description>
+      <Point>
+        <coordinates>172.61619,-43.50674,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.4265</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">2.4344</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">2.0353</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>PPHS</name>
+      <description>Christchurch Papanui High School</description>
+      <Point>
+        <coordinates>172.606916248,-43.492846035,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">3.7367</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.9726</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">4.5890</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>ROLC</name>
+      <description>Rolleston School</description>
+      <Point>
+        <coordinates>172.381092806,-43.592818023,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.0204</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.8975</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.2067</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>REHS</name>
+      <description>Christchurch Resthaven</description>
+      <Point>
+        <coordinates>172.635146473,-43.521946859,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">2.1083</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">3.2463</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">5.2627</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>CCCC</name>
+      <description>Christchurch Cathedral College</description>
+      <Point>
+        <coordinates>172.647427,-43.538085,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.2031</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">2.2087</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.9404</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>MPSS</name>
+      <description>Mairehau Primary School</description>
+      <Point>
+        <coordinates>172.642253,-43.499375,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.8758</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">2.0853</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">2.0711</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>SMTC</name>
+      <description>Styx Mill Transfer Station</description>
+      <Point>
+        <coordinates>172.613861084,-43.467529297,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.5074</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.9560</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.4168</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>HUNS</name>
+      <description>Huntsbury</description>
+      <Point>
+        <coordinates>172.65723,-43.57937,207</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.3366</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.5498</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.7835</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>OPWS</name>
+      <description>Opawa School</description>
+      <Point>
+        <coordinates>172.66429,-43.55619,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.4986</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.4564</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.2083</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>STKS</name>
+      <description>Sign of the Kiwi</description>
+      <Point>
+        <coordinates>172.644913,-43.606541,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.1924</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.4430</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.6825</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>SHLC</name>
+      <description>Shirley Library</description>
+      <Point>
+        <coordinates>172.663391113,-43.505336761,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.5470</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.3874</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">2.0438</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>DALS</name>
+      <description>Dallington</description>
+      <Point>
+        <coordinates>172.67323,-43.51198,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.7668</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">2.0136</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.0939</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>PRPC</name>
+      <description>Pages Road Pumping Station</description>
+      <Point>
+        <coordinates>172.682771076,-43.525813082,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">1.7686</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.0666</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.5088</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>GOVS</name>
+      <description>Living Springs Camp Governors Bay</description>
+      <Point>
+        <coordinates>172.635725,-43.652421,163</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.6873</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.2844</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.4655</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>MENS</name>
+      <description>Menlo Terrace Mount Pleasant Christchurch</description>
+      <Point>
+        <coordinates>172.71149,-43.55849,35</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.5593</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.7894</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.9582</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>HPSC</name>
+      <description>Hulverstone Drive Pumping Station</description>
+      <Point>
+        <coordinates>172.702194214,-43.50157547,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.8880</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.1507</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.7764</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>OHSS</name>
+      <description>Ouruhia School</description>
+      <Point>
+        <coordinates>172.6605,-43.4446,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.4033</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.0494</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">1.0835</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>LCQC</name>
+      <description>Lyttelton Port Cashin Quay</description>
+      <Point>
+        <coordinates>172.729678,-43.608578,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.5713</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.6205</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.6334</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>SWNC</name>
+      <description>Swannanoa School</description>
+      <Point>
+        <coordinates>172.495355403,-43.369432575,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.4089</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0048</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.5832</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>PARS</name>
+      <description>Panorama Road</description>
+      <Point>
+        <coordinates>172.750717,-43.567898,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.2582</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.3798</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.4368</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>DHSS</name>
+      <description>Diamond Harbour School</description>
+      <Point>
+        <coordinates>172.72725,-43.63026,97</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.5008</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.7071</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.8928</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>SLRC</name>
+      <description>Selwyn Lake Road</description>
+      <Point>
+        <coordinates>172.31752,-43.67513,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.1456</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.2190</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.2509</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>SUMS</name>
+      <description>Sumner</description>
+      <Point>
+        <coordinates>172.75681,-43.56921,9</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.3329</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.4921</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.8913</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>GODS</name>
+      <description>Godley Drive</description>
+      <Point>
+        <coordinates>172.76926,-43.5784,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.1619</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.3154</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.2424</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>KPOC</name>
+      <description>Kaiapoi North School</description>
+      <Point>
+        <coordinates>172.66376756,-43.376463195,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.1961</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">1.2291</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.6518</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>DSLC</name>
+      <description>Dunsandel School</description>
+      <Point>
+        <coordinates>172.19792004,-43.667499474,68</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.1372</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.4136</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.3599</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>CSTC</name>
+      <description>Cust School</description>
+      <Point>
+        <coordinates>172.381334202,-43.312290815,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.1749</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.2773</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.3375</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>DFHS</name>
+      <description>Darfield High School</description>
+      <Point>
+        <coordinates>172.102159687,-43.489674622,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0812</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0884</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.0919</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>GDLC</name>
+      <description>Greendale</description>
+      <Point>
+        <coordinates>172.088753,-43.586183,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.1223</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0614</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.1286</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>SMHS</name>
+      <description>Summerhill</description>
+      <Point>
+        <coordinates>172.33463,-43.26216,181</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0790</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.2076</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.1972</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>TOKS</name>
+      <description>Te Oka Bay Road SW Banks Peninsula</description>
+      <Point>
+        <coordinates>172.78084,-43.82243,577</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.2199</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.3166</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.3377</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>MNZS</name>
+      <description>Menzies Bay Banks Peninsula</description>
+      <Point>
+        <coordinates>172.973808,-43.637364,102</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0859</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0958</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.0969</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>OXZ</name>
+      <description>Oxford</description>
+      <Point>
+        <coordinates>172.0383,-43.3259,360</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.1468</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.2404</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.4306</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>AKSS</name>
+      <description>Akaroa School</description>
+      <Point>
+        <coordinates>172.96349,-43.81091,13</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.1487</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.1642</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.2267</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>SPRS</name>
+      <description>Springfield Volunteer Fire Station</description>
+      <Point>
+        <coordinates>171.93008,-43.3368,9999</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0697</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.1484</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.1015</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>WCSS</name>
+      <description>Whitecliffs</description>
+      <Point>
+        <coordinates>171.86346,-43.45775,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0889</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.1077</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.1020</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>WAKC</name>
+      <description>Waikari</description>
+      <Point>
+        <coordinates>172.705240104,-42.963102826,219</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.2333</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0967</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.1035</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>MTHS</name>
+      <description>Methven North</description>
+      <Point>
+        <coordinates>171.666362,-43.563194,410</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0405</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0566</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.0693</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>CSHS</name>
+      <description>Castle Hill Station</description>
+      <Point>
+        <coordinates>171.723556103,-43.226526873,731</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0758</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0453</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.0420</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>LSRC</name>
+      <description>Lake Sumner Road</description>
+      <Point>
+        <coordinates>172.543288463,-42.869520062,0.0</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0808</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0869</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.1005</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>MAYC</name>
+      <description>Mayfield School</description>
+      <Point>
+        <coordinates>171.421709104,-43.82306143,258</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0288</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0353</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.0286</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>APPS</name>
+      <description>Arthurs Pass Police Station</description>
+      <Point>
+        <coordinates>171.567735496,-42.948949444,743</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0352</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0338</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.0313</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>CECS</name>
+      <description>Cheviot Emergency Centre</description>
+      <Point>
+        <coordinates>173.274868178,-42.813490547,69</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0200</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0265</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.0294</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>FDCS</name>
+      <description>Fairlie District Council Garage</description>
+      <Point>
+        <coordinates>170.828699884,-44.098657034,318</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0201</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0278</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.0252</MetaData>
+    </Placemark>
+  </Document>
+</kml>
