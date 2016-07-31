@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+	<name>ServiceCentre.geojson</name>
+        	<description>/GovHack2016-Christchurch/CCC-General-Datasets/ServiceCentre/</description>
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Beckenham Service Centre</description>
+        	<Point><coordinates>172.6378225,-43.5614087,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+</Document>
+</kml>

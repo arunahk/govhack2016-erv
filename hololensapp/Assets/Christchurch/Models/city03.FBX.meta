@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 63eb7646e9cdd0e44812c2d4393e53aa
+timeCreated: 1449457867
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Block001
+    100002: Block002
+    100004: Block003
+    100006: Block004
+    100008: Block005
+    100010: Block006
+    100012: Block007
+    100014: Block08
+    100016: //RootNode
+    100018: CityGround
+    100020: Direct001
+    100022: Direct001.Target
+    100024: Dummy001
+    100026: Box001
+    100028: Box002
+    100030: Box003
+    100032: Box004
+    100034: Mesh604
+    100036: Mesh605
+    100038: Mesh606
+    100040: Mesh607
+    100042: Mesh608
+    100044: Mesh609
+    400000: Block001
+    400002: Block002
+    400004: Block003
+    400006: Block004
+    400008: Block005
+    400010: Block006
+    400012: Block007
+    400014: Block08
+    400016: //RootNode
+    400018: CityGround
+    400020: Direct001
+    400022: Direct001.Target
+    400024: Dummy001
+    400026: Box001
+    400028: Box002
+    400030: Box003
+    400032: Box004
+    400034: Mesh604
+    400036: Mesh605
+    400038: Mesh606
+    400040: Mesh607
+    400042: Mesh608
+    400044: Mesh609
+    2300000: Block001
+    2300002: Block002
+    2300004: Block003
+    2300006: Block004
+    2300008: Block005
+    2300010: Block006
+    2300012: Block007
+    2300014: Block08
+    2300016: CityGround
+    2300018: Box001
+    2300020: Box002
+    2300022: Box003
+    2300024: Box004
+    2300026: Mesh604
+    2300028: Mesh605
+    2300030: Mesh606
+    2300032: Mesh607
+    2300034: Mesh608
+    2300036: Mesh609
+    3300000: Block001
+    3300002: Block002
+    3300004: Block003
+    3300006: Block004
+    3300008: Block005
+    3300010: Block006
+    3300012: Block007
+    3300014: Block08
+    3300016: CityGround
+    3300018: Box001
+    3300020: Box002
+    3300022: Box003
+    3300024: Box004
+    3300026: Mesh604
+    3300028: Mesh605
+    3300030: Mesh606
+    3300032: Mesh607
+    3300034: Mesh608
+    3300036: Mesh609
+    4300000: Block08
+    4300002: Block007
+    4300004: CityGround
+    4300006: Block005
+    4300008: Block004
+    4300010: Block003
+    4300012: Block002
+    4300014: Block001
+    4300016: Block006
+    4300018: Mesh606
+    4300020: Mesh605
+    4300022: Mesh604
+    4300024: Mesh607
+    4300026: Box001
+    4300028: Box002
+    4300030: Box003
+    4300032: Box004
+    4300034: Mesh608
+    4300036: Mesh609
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

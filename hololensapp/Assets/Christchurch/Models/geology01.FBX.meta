@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 715f5d2ab18e11a4681b77f3883342fb
+timeCreated: 1449541390
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: NZL_GNS_GM3_Christchurch_Geological_CBD - Avonside_Member
+    100004: NZL_GNS_GM3_Christchurch_Geological_CBD - Christchurch_Formation
+    100006: NZL_GNS_GM3_Christchurch_Geological_CBD - Riccarton_Gravels
+    100008: NZL_GNS_GM3_Christchurch_Geological_CBD - Springston_Formation
+    100010: CBD Terrain
+    100012: Spot001
+    100014: Spot001.Target
+    400000: //RootNode
+    400002: NZL_GNS_GM3_Christchurch_Geological_CBD - Avonside_Member
+    400004: NZL_GNS_GM3_Christchurch_Geological_CBD - Christchurch_Formation
+    400006: NZL_GNS_GM3_Christchurch_Geological_CBD - Riccarton_Gravels
+    400008: NZL_GNS_GM3_Christchurch_Geological_CBD - Springston_Formation
+    400010: CBD Terrain
+    400012: Spot001
+    400014: Spot001.Target
+    2300000: //RootNode
+    2300002: NZL_GNS_GM3_Christchurch_Geological_CBD - Avonside_Member
+    2300004: NZL_GNS_GM3_Christchurch_Geological_CBD - Christchurch_Formation
+    2300006: NZL_GNS_GM3_Christchurch_Geological_CBD - Riccarton_Gravels
+    2300008: NZL_GNS_GM3_Christchurch_Geological_CBD - Springston_Formation
+    2300010: CBD Terrain
+    3300000: //RootNode
+    3300002: NZL_GNS_GM3_Christchurch_Geological_CBD - Avonside_Member
+    3300004: NZL_GNS_GM3_Christchurch_Geological_CBD - Christchurch_Formation
+    3300006: NZL_GNS_GM3_Christchurch_Geological_CBD - Riccarton_Gravels
+    3300008: NZL_GNS_GM3_Christchurch_Geological_CBD - Springston_Formation
+    3300010: CBD Terrain
+    4300000: CBD Terrain
+    4300002: NZL_GNS_GM3_Christchurch_Geological_CBD - Avonside_Member
+    4300004: NZL_GNS_GM3_Christchurch_Geological_CBD - Christchurch_Formation
+    4300006: NZL_GNS_GM3_Christchurch_Geological_CBD - Riccarton_Gravels
+    4300008: NZL_GNS_GM3_Christchurch_Geological_CBD - Springston_Formation
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
