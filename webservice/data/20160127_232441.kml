@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml 
+  xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>20160127_232441.CSV</name>
     <description>ftp://ftp.geonet.org.nz/strong/processed/Proc/2016/</description>
@@ -730,6 +731,20 @@
       <MetaData name="PGA Vertical (%g)">0.0201</MetaData>
       <MetaData name="PGA Horiz_1 (%g)">0.0278</MetaData>
       <MetaData name="PGA Horiz_2 (%g)">0.0252</MetaData>
+    </Placemark>
+    <Placemark>
+      <name>CVZ</name>
+      <description>Cave</description>
+      <Point>
+        <coordinates>171.00616,-44.38318,495</coordinates>
+      </Point>
+      <MetaData name="Data Type">Sensor</MetaData>
+      <MetaData name="Earthquake Date (UT)">2016-01-27</MetaData>
+      <MetaData name="Time (UT)">23:24:41</MetaData>
+      <MetaData name="Magnitude">4.11</MetaData>
+      <MetaData name="PGA Vertical (%g)">0.0112</MetaData>
+      <MetaData name="PGA Horiz_1 (%g)">0.0152</MetaData>
+      <MetaData name="PGA Horiz_2 (%g)">0.0146</MetaData>
     </Placemark>
   </Document>
 </kml>
