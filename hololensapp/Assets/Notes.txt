@@ -1,0 +1,56 @@
+Tools Used:
+
+Unity3d v5.4 beta
+Visual Studio 2015 Community edition
+
+Scripts:
+HeightMapForTerrain - javascript downloaded from http://wiki.unity3d.com/index.php?title=HeightmapFromTexture
+
+Resources:
+
+Imagery:
+Koordinates - NZ Raster Image (Topo 50)
+I exported the map tiles BX23 and BX24 for Christchurch.
+I downloaded the tiff files from:
+http://www.linz.govt.nz/land/maps/linz-topographic-maps/map-chooser
+So that I could get the NZTM legend for the maps.
+BX-24: Bottom Left: 5154000N 1564000E
+		Top Right:  5190000N 1588000E
+BX-23: Directly east of BX-24
+		Bottom Left 5154000N 1540000E
+
+Converted the NZTM units to WGS-84 so that i could feed them into Terrain Party:
+http://apps.linz.govt.nz/coordinate-conversion/
+Conversion epoch: 2016.505
+       	New Zealand Transverse Mercator Projection	       	World Geodetic System 1984 (G1762)
+       	Northing	Easting	       	Latitude	Longitude
+       	5154000.000	1540000.000	       	-43.76461329	172.25456342
+       	5190000.000	1588000.000	       	-43.44279919	172.85169953
+
+Height Maps:
+http://terrain.party/
+The koordinates data didn't produce good images for height maps. So I used TerrainParty. 
+I hand edited the URL with the coordinates.
+I chose to get both map tiles in a single height map.
+http://terrain.party/api/export?name=Christchurch48km02&box=172.85169953,-43.44279919,172.25456342,-43.76461329
+I resized the image to 1024x1024 in paint.net.
+Then split it into two images 512x1024. This approach menat that I could use the same height map scaling for both tiles.
+
+Unity3d
+Imported the height maps. I used the advanced option to make the read/write
+Imported the map tiles. I modified the maximim size of import to 8192.
+
+I added a new terrain tile and edited the following:
+Terrain Width: 24 (1: 1km)
+Terrain Length: 36 (1 : 1km)
+Terrain Height: 0.92 (1 : 1km (920m is the height of the heighest point in the height map)) 
+Applied the height map using the javascript (Only one terrain at a time can be active for this script to work)
+
+
+
+
+Unity terrain tutorial:
+https://www.youtube.com/watch?v=-vyNbalvXR4
+
+Virtual reality:
+Added SteamVR plug in to Unity project

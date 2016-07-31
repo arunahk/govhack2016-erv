@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+	<name>ServiceCentre.geojson</name>
+        	<description>/GovHack2016-Christchurch/CCC-General-Datasets/ServiceCentre/</description>
+
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Beckenham Service Centre</description>
+        	<Point><coordinates>172.6378225,-43.5614087,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Linwood Service Centre</description>
+        	<Point><coordinates>172.6748178,-43.5331449,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Civic Offices</description>
+        	<Point><coordinates>172.6317043,-43.5317791,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Shirley Service Centre</description>
+        	<Point><coordinates>172.6631248,-43.5051322,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Papanui Service Centre</description>
+        	<Point><coordinates>172.6072335,-43.4942194,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Fendalton Service Centre</description>
+        	<Point><coordinates>172.5916028,-43.5138781,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Hornby Service Centre</description>
+        	<Point><coordinates>172.5225305,-43.5446362,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Riccarton Service Centre</description>
+        	<Point><coordinates>172.6018093,-43.5309508,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Lyttelton Service Centre</description>
+        	<Point><coordinates>172.7218347,-43.6028995,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Little River Service Centre</description>
+        	<Point><coordinates>172.7910553,-43.7702457,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Akaroa Service Centre</description>
+        	<Point><coordinates>172.9684281,-43.8030918,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+      	<Placemark>	
+<name>Beckenham Service Centre</name>
+        		<description>Te Hapua Halswell Service Centre</description>
+        	<Point><coordinates>172.5686389,-43.5811294,0</coordinates></Point>
+<MetaData name="Data Type">Building</MetaData>
+<MetaData name="Data Name">Service Centre</MetaData>
+      	</Placemark>
+
+
+
+</Document>
+</kml>

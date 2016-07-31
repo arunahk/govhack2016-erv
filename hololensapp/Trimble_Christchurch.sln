@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trimble_Christchurch.CSharp.Plugins", "Trimble_Christchurch.CSharp.Plugins.csproj", "{1A94581B-59F8-6DCE-F405-373241AE155E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trimble_Christchurch.CSharp", "Trimble_Christchurch.CSharp.csproj", "{89FBE97E-5E47-93CD-D6B8-341BCED9ED8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trimble_Christchurch.CSharp.Editor", "Trimble_Christchurch.CSharp.Editor.csproj", "{E3FCEDDE-5D99-156C-6C67-336AB4453486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A94581B-59F8-6DCE-F405-373241AE155E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A94581B-59F8-6DCE-F405-373241AE155E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A94581B-59F8-6DCE-F405-373241AE155E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A94581B-59F8-6DCE-F405-373241AE155E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89FBE97E-5E47-93CD-D6B8-341BCED9ED8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FBE97E-5E47-93CD-D6B8-341BCED9ED8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FBE97E-5E47-93CD-D6B8-341BCED9ED8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FBE97E-5E47-93CD-D6B8-341BCED9ED8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FCEDDE-5D99-156C-6C67-336AB4453486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FCEDDE-5D99-156C-6C67-336AB4453486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FCEDDE-5D99-156C-6C67-336AB4453486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FCEDDE-5D99-156C-6C67-336AB4453486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

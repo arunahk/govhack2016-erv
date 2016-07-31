@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: b5db2b201a235db4a80f44a86aa8a8e3
+timeCreated: 1461729810
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Car Sedan_001
+    100002: Car Sedan_002
+    100004: Car Sedan_003
+    100006: Car Sedan_004
+    100008: Car Sedan_005
+    100010: Car Sedan_006
+    100012: Car Sedan_007
+    100014: Car Sedan_008
+    100016: Car Sedan_009
+    100018: Car Sedan_010
+    100020: Car Sedan_011
+    100022: Car Sedan_012
+    100024: Car Sedan_013
+    100026: Car Sedan_014
+    100028: Car Sedan_015
+    100030: Car Sedan_016
+    100032: Car Sedan_017
+    100034: Car Sedan_018
+    100036: Car Sedan_019
+    100038: Car Sedan_020
+    100040: Car Sedan_021
+    100042: Car Sedan_022
+    100044: Car Sedan_023
+    100046: Car Sedan_024
+    100048: Car Sedan_025
+    100050: Car Sedan_026
+    100052: Car Sedan_027
+    100054: Car Sedan_028
+    100056: Car Sedan_029
+    100058: Car Sedan_030
+    100060: Car Sedan_031
+    100062: Car Sedan_032
+    100064: Car Sedan_033
+    100066: Car Sedan_034
+    100068: Car Sedan_035
+    100070: Car Sedan_036
+    100072: Car Sedan_037
+    100074: Car Sedan_038
+    100076: Car Sedan_039
+    100078: Car Sedan_040
+    100080: Landscape_001
+    100082: //RootNode
+    400000: Car Sedan_001
+    400002: Car Sedan_002
+    400004: Car Sedan_003
+    400006: Car Sedan_004
+    400008: Car Sedan_005
+    400010: Car Sedan_006
+    400012: Car Sedan_007
+    400014: Car Sedan_008
+    400016: Car Sedan_009
+    400018: Car Sedan_010
+    400020: Car Sedan_011
+    400022: Car Sedan_012
+    400024: Car Sedan_013
+    400026: Car Sedan_014
+    400028: Car Sedan_015
+    400030: Car Sedan_016
+    400032: Car Sedan_017
+    400034: Car Sedan_018
+    400036: Car Sedan_019
+    400038: Car Sedan_020
+    400040: Car Sedan_021
+    400042: Car Sedan_022
+    400044: Car Sedan_023
+    400046: Car Sedan_024
+    400048: Car Sedan_025
+    400050: Car Sedan_026
+    400052: Car Sedan_027
+    400054: Car Sedan_028
+    400056: Car Sedan_029
+    400058: Car Sedan_030
+    400060: Car Sedan_031
+    400062: Car Sedan_032
+    400064: Car Sedan_033
+    400066: Car Sedan_034
+    400068: Car Sedan_035
+    400070: Car Sedan_036
+    400072: Car Sedan_037
+    400074: Car Sedan_038
+    400076: Car Sedan_039
+    400078: Car Sedan_040
+    400080: Landscape_001
+    400082: //RootNode
+    2300000: Landscape_001
+    2300002: //RootNode
+    3300000: Landscape_001
+    3300002: //RootNode
+    4300000: Landscape_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

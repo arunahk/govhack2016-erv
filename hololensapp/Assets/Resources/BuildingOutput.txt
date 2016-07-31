@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>ServiceCentre.geojson</name>
+  <description>/GovHack2016-Christchurch/CCC-General-Datasets/ServiceCentre/</description>
+  <Placemark>
+	<name>Templeton Primary School</name>
+	<description>Templeton Primary School</description>
+	<Point><coordinates>172.472,-43.5526,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>South Hornby Primary School</name>
+	<description>South Hornby Primary School</description>
+	<Point><coordinates>172.521,-43.5481,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>McKenzie Residential School</name>
+	<description>McKenzie Residential School</description>
+	<Point><coordinates>172.522,-43.5201,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Hei Hei Community Centre</name>
+	<description>Hei Hei Community Centre</description>
+	<Point><coordinates>172.522,-43.5375,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Hornby Primary School</name>
+	<description>Hornby Primary School</description>
+	<Point><coordinates>172.522,-43.5402,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>St Bernadettes School</name>
+	<description>St Bernadettes School</description>
+	<Point><coordinates>172.526,-43.5361,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Hornby High School</name>
+	<description>Hornby High School</description>
+	<Point><coordinates>172.526,-43.5393,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Branston Intermediate School</name>
+	<description>Branston Intermediate School</description>
+	<Point><coordinates>172.529,-43.5484,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Russley School</name>
+	<description>Russley School</description>
+	<Point><coordinates>172.544,-43.5192,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Russley Playcentre</name>
+	<description>Russley Playcentre</description>
+	<Point><coordinates>172.547,-43.5177,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Sockburn Service Centre</name>
+	<description>Sockburn Service Centre</description>
+	<Point><coordinates>172.556,-43.5403,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Civil Defence Training School</name>
+	<description>Civil Defence Training School</description>
+	<Point><coordinates>172.556,-43.5405,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Institutional</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Weaver Courts</name>
+	<description>Weaver Courts</description>
+	<Point><coordinates>172.556,-43.5382,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Wales Kindergarten Reserve</name>
+	<description>Wales Kindergarten Reserve</description>
+	<Point><coordinates>172.557,-43.5779,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Merrin Primary School</name>
+	<description>Merrin Primary School</description>
+	<Point><coordinates>172.559,-43.5126,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Harewood School</name>
+	<description>Harewood School</description>
+	<Point><coordinates>172.559,-43.4821,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Avonhead School</name>
+	<description>Avonhead School</description>
+	<Point><coordinates>172.559,-43.5262,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Roydvale School</name>
+	<description>Roydvale School</description>
+	<Point><coordinates>172.563,-43.4961,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Riccarton Primary School</name>
+	<description>Riccarton Primary School</description>
+	<Point><coordinates>172.564,-43.5351,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Christchurch College Of Education</name>
+	<description>Christchurch College Of Education</description>
+	<Point><coordinates>172.568,-43.5233,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Hogben School</name>
+	<description>Hogben School</description>
+	<Point><coordinates>172.569,-43.5635,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Westburn School</name>
+	<description>Westburn School</description>
+	<Point><coordinates>172.571,-43.5134,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Halswell Library</name>
+	<description>Halswell Library</description>
+	<Point><coordinates>172.571,-43.5867,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Sir John McKenzie Library</name>
+	<description>Sir John McKenzie Library</description>
+	<Point><coordinates>172.572,-43.5338,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Waimairi Community Centre</name>
+	<description>Waimairi Community Centre</description>
+	<Point><coordinates>172.573,-43.5197,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Kendal Primary School</name>
+	<description>Kendal Primary School</description>
+	<Point><coordinates>172.574,-43.5005,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Burnside High School</name>
+	<description>Burnside High School</description>
+	<Point><coordinates>172.575,-43.5092,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Breens Intermediate School</name>
+	<description>Breens Intermediate School</description>
+	<Point><coordinates>172.577,-43.4886,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Middleton Park</name>
+	<description>Middleton Park</description>
+	<Point><coordinates>172.582,-43.5365,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Isleworth School</name>
+	<description>Isleworth School</description>
+	<Point><coordinates>172.582,-43.4942,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Burnside Primary School</name>
+	<description>Burnside Primary School</description>
+	<Point><coordinates>172.583,-43.5142,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Cobham Intermediate School</name>
+	<description>Cobham Intermediate School</description>
+	<Point><coordinates>172.584,-43.5124,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Wairakei School</name>
+	<description>Wairakei School</description>
+	<Point><coordinates>172.588,-43.502,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Cotswold School</name>
+	<description>Cotswold School</description>
+	<Point><coordinates>172.588,-43.4846,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Fendalton Open Air School</name>
+	<description>Fendalton Open Air School</description>
+	<Point><coordinates>172.591,-43.5182,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Fendalton Community Centre</name>
+	<description>Fendalton Community Centre</description>
+	<Point><coordinates>172.591,-43.517,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Spreydon School</name>
+	<description>Spreydon School</description>
+	<Point><coordinates>172.593,-43.5558,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Bishopdale School</name>
+	<description>Bishopdale School</description>
+	<Point><coordinates>172.596,-43.4885,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Wharenui School</name>
+	<description>Wharenui School</description>
+	<Point><coordinates>172.597,-43.5382,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Riccarton Community Centre</name>
+	<description>Riccarton Community Centre</description>
+	<Point><coordinates>172.601,-43.5323,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Commercial</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Casebrook Intermediate School</name>
+	<description>Casebrook Intermediate School</description>
+	<Point><coordinates>172.603,-43.4846,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>St Patricks School</name>
+	<description>St Patricks School</description>
+	<Point><coordinates>172.604,-43.5134,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Hoon Hay School</name>
+	<description>Hoon Hay School</description>
+	<Point><coordinates>172.606,-43.5669,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Papanui High School</name>
+	<description>Papanui High School</description>
+	<Point><coordinates>172.608,-43.4942,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Margaret Stoddart Resthome</name>
+	<description>Margaret Stoddart Resthome</description>
+	<Point><coordinates>172.609,-43.5315,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Residential</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>George Manning House Hospital &amp; Rest Home</name>
+	<description>George Manning House Hospital &amp; Rest Home</description>
+	<Point><coordinates>172.611,-43.5622,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>West Spreydon School</name>
+	<description>West Spreydon School</description>
+	<Point><coordinates>172.611,-43.5617,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Sacred Heart School</name>
+	<description>Sacred Heart School</description>
+	<Point><coordinates>172.612,-43.5477,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Northcote Primary School</name>
+	<description>Northcote Primary School</description>
+	<Point><coordinates>172.613,-43.4811,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>St Josephs School</name>
+	<description>St Josephs School</description>
+	<Point><coordinates>172.614,-43.4902,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Spreydon Community Centre</name>
+	<description>Spreydon Community Centre</description>
+	<Point><coordinates>172.613,-43.5656,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Elmwood Normal School</name>
+	<description>Elmwood Normal School</description>
+	<Point><coordinates>172.615,-43.5155,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Heaton Intermediate School</name>
+	<description>Heaton Intermediate School</description>
+	<Point><coordinates>172.616,-43.5114,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Redwood Library</name>
+	<description>Redwood Library</description>
+	<Point><coordinates>172.616,-43.4791,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Barrington Bowling Club</name>
+	<description>Barrington Bowling Club</description>
+	<Point><coordinates>172.616,-43.5559,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Rangi Ruru Girls School</name>
+	<description>Rangi Ruru Girls School</description>
+	<Point><coordinates>172.618,-43.5214,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Spreydon Library</name>
+	<description>Spreydon Library</description>
+	<Point><coordinates>172.618,-43.5581,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Papanui Primary School</name>
+	<description>Papanui Primary School</description>
+	<Point><coordinates>172.62,-43.4897,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Ferndale School</name>
+	<description>Ferndale School</description>
+	<Point><coordinates>172.622,-43.5191,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Somerfield Community Centre</name>
+	<description>Somerfield Community Centre</description>
+	<Point><coordinates>172.627,-43.5614,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Somerfield School</name>
+	<description>Somerfield School</description>
+	<Point><coordinates>172.628,-43.5625,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Belfast School</name>
+	<description>Belfast School</description>
+	<Point><coordinates>172.628,-43.4556,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Somerfield Park</name>
+	<description>Somerfield Park</description>
+	<Point><coordinates>172.628,-43.5611,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Malvern Park</name>
+	<description>Malvern Park</description>
+	<Point><coordinates>172.63,-43.506,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Abberley Park Hall</name>
+	<description>Abberley Park Hall</description>
+	<Point><coordinates>172.63,-43.5154,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>West Fitzroy Apartments</name>
+	<description>West Fitzroy Apartments</description>
+	<Point><coordinates>172.632,-43.5306,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Residential</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Cashmere Primary School</name>
+	<description>Cashmere Primary School</description>
+	<Point><coordinates>172.632,-43.578,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Rose Historic Chapel Reserve</name>
+	<description>Rose Historic Chapel Reserve</description>
+	<Point><coordinates>172.637,-43.5248,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Beckenham Courts Rest Home</name>
+	<description>Beckenham Courts Rest Home</description>
+	<Point><coordinates>172.638,-43.5552,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Residential</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>St Mary's School</name>
+	<description>St Mary's School</description>
+	<Point><coordinates>172.638,-43.5243,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>St Peters School</name>
+	<description>St Peters School</description>
+	<Point><coordinates>172.639,-43.561,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Landsdowne Community Centre</name>
+	<description>Landsdowne Community Centre</description>
+	<Point><coordinates>172.639,-43.5729,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Waimea Reserve</name>
+	<description>Waimea Reserve</description>
+	<Point><coordinates>172.641,-43.5637,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Mairehau Public Library</name>
+	<description>Mairehau Public Library</description>
+	<Point><coordinates>172.642,-43.5025,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Christchurch Polytechnic Institute of Technology</name>
+	<description>Christchurch Polytechnic Institute of Technology</description>
+	<Point><coordinates>172.643,-43.5397,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Commercial</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Gloucester Courts</name>
+	<description>Gloucester Courts</description>
+	<Point><coordinates>172.645,-43.5318,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Opawa St Martins Plunket Toy Library</name>
+	<description>Opawa St Martins Plunket Toy Library</description>
+	<Point><coordinates>172.645,-43.5647,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Christchurch Polytechnic Institute of Technology</name>
+	<description>Christchurch Polytechnic Institute of Technology</description>
+	<Point><coordinates>172.645,-43.539,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Commercial</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>St Helenas Hospital &amp; Rest Home</name>
+	<description>St Helenas Hospital &amp; Rest Home</description>
+	<Point><coordinates>172.646,-43.5239,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Residential</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Beckenham School</name>
+	<description>Beckenham School</description>
+	<Point><coordinates>172.646,-43.5644,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Westminster Park</name>
+	<description>Westminster Park</description>
+	<Point><coordinates>172.647,-43.5023,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Christchurch East School</name>
+	<description>Christchurch East School</description>
+	<Point><coordinates>172.648,-43.531,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Waltham School</name>
+	<description>Waltham School</description>
+	<Point><coordinates>172.648,-43.5511,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Huntsbury Playground</name>
+	<description>Huntsbury Playground</description>
+	<Point><coordinates>172.652,-43.5684,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Shirley Primary School</name>
+	<description>Shirley Primary School</description>
+	<Point><coordinates>172.653,-43.5093,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Richmond Community Centre</name>
+	<description>Richmond Community Centre</description>
+	<Point><coordinates>172.655,-43.5219,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Phillipstown School</name>
+	<description>Phillipstown School</description>
+	<Point><coordinates>172.656,-43.5395,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Phillipstown Community Centre</name>
+	<description>Phillipstown Community Centre</description>
+	<Point><coordinates>172.657,-43.5389,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Marshland Primary School</name>
+	<description>Marshland Primary School</description>
+	<Point><coordinates>172.658,-43.4758,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Rudolf Steiner School</name>
+	<description>Rudolf Steiner School</description>
+	<Point><coordinates>172.659,-43.563,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Phillipstown Courts</name>
+	<description>Phillipstown Courts</description>
+	<Point><coordinates>172.659,-43.5416,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Hammersley Park School</name>
+	<description>Hammersley Park School</description>
+	<Point><coordinates>172.66,-43.5028,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Shirley Boys High School</name>
+	<description>Shirley Boys High School</description>
+	<Point><coordinates>172.66,-43.5139,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Avebury House</name>
+	<description>Avebury House</description>
+	<Point><coordinates>172.66,-43.5217,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Shirley Intermediate School</name>
+	<description>Shirley Intermediate School</description>
+	<Point><coordinates>172.662,-43.5104,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Shirley Service Centre</name>
+	<description>Shirley Service Centre</description>
+	<Point><coordinates>172.663,-43.5068,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Kainga Hall Reserve</name>
+	<description>Kainga Hall Reserve</description>
+	<Point><coordinates>172.664,-43.4111,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Opawa Primary School</name>
+	<description>Opawa Primary School</description>
+	<Point><coordinates>172.664,-43.5577,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Linwood High School</name>
+	<description>Linwood High School</description>
+	<Point><coordinates>172.668,-43.5403,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Linwood Intermediate School</name>
+	<description>Linwood Intermediate School</description>
+	<Point><coordinates>172.674,-43.531,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Woolston Community Centre</name>
+	<description>Woolston Community Centre</description>
+	<Point><coordinates>172.673,-43.5478,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Linwood Avenue School</name>
+	<description>Linwood Avenue School</description>
+	<Point><coordinates>172.673,-43.5368,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Linwood North Primary School</name>
+	<description>Linwood North Primary School</description>
+	<Point><coordinates>172.676,-43.5266,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Linwood Service Centre</name>
+	<description>Linwood Service Centre</description>
+	<Point><coordinates>172.677,-43.5396,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Commercial</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Bamford School</name>
+	<description>Bamford School</description>
+	<Point><coordinates>172.687,-43.5555,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Bromley School</name>
+	<description>Bromley School</description>
+	<Point><coordinates>172.688,-43.5384,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Tamariki School</name>
+	<description>Tamariki School</description>
+	<Point><coordinates>172.689,-43.5482,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Ruru Lawn Cemetery</name>
+	<description>Ruru Lawn Cemetery</description>
+	<Point><coordinates>172.69,-43.5382,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Avondale School</name>
+	<description>Avondale School</description>
+	<Point><coordinates>172.69,-43.5126,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Aranui Primary School</name>
+	<description>Aranui Primary School</description>
+	<Point><coordinates>172.701,-43.5169,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Parklands Community Centre</name>
+	<description>Parklands Community Centre</description>
+	<Point><coordinates>172.704,-43.4834,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Commercial</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>St James Primary School</name>
+	<description>St James Primary School</description>
+	<Point><coordinates>172.705,-43.5136,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Parkview School</name>
+	<description>Parkview School</description>
+	<Point><coordinates>172.706,-43.4821,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Commercial</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Wainoni School</name>
+	<description>Wainoni School</description>
+	<Point><coordinates>172.708,-43.5075,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Rawhiti Domain</name>
+	<description>Rawhiti Domain</description>
+	<Point><coordinates>172.723,-43.503,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Central New Brighton School</name>
+	<description>Central New Brighton School</description>
+	<Point><coordinates>172.724,-43.5099,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Nova Montessori School</name>
+	<description>Nova Montessori School</description>
+	<Point><coordinates>172.725,-43.5123,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>South New Brighton School</name>
+	<description>South New Brighton School</description>
+	<Point><coordinates>172.733,-43.5282,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Sumner School</name>
+	<description>Sumner School</description>
+	<Point><coordinates>172.76,-43.5752,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Harewood Park</name>
+	<description>Harewood Park</description>
+	<Point><coordinates>172.587,-43.4712,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Dunedin Reserve</name>
+	<description>Dunedin Reserve</description>
+	<Point><coordinates>172.622,-43.4789,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Redwood Primary School</name>
+	<description>Redwood Primary School</description>
+	<Point><coordinates>172.622,-43.4749,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Queenspark School</name>
+	<description>Queenspark School</description>
+	<Point><coordinates>172.696,-43.4752,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Mairehau High School</name>
+	<description>Mairehau High School</description>
+	<Point><coordinates>172.648,-43.4957,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>St Winifreds Hospital &amp; Rest Home</name>
+	<description>St Winifreds Hospital &amp; Rest Home</description>
+	<Point><coordinates>172.596,-43.5107,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Institutional</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>New Brighton Library</name>
+	<description>New Brighton Library</description>
+	<Point><coordinates>172.731,-43.5086,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Commercial</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Fendalton Service Centre</name>
+	<description>Fendalton Service Centre</description>
+	<Point><coordinates>172.591,-43.5156,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Christchurch Boys' High School</name>
+	<description>Christchurch Boys' High School</description>
+	<Point><coordinates>172.6,-43.5262,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Airedale Courts</name>
+	<description>Airedale Courts</description>
+	<Point><coordinates>172.632,-43.5254,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Residential</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Mt Pleasant Primary School</name>
+	<description>Mt Pleasant Primary School</description>
+	<Point><coordinates>172.715,-43.564,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Heathcote School</name>
+	<description>Heathcote School</description>
+	<Point><coordinates>172.709,-43.5811,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Heathcote Valley School</name>
+	<description>Heathcote Valley School</description>
+	<Point><coordinates>172.709,-43.5817,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Beckenham Service Centre</name>
+	<description>Beckenham Service Centre</description>
+	<Point><coordinates>172.638,-43.563,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Yaldhurst Domain</name>
+	<description>Yaldhurst Domain</description>
+	<Point><coordinates>172.501,-43.5113,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Star Of The Sea School</name>
+	<description>Star Of The Sea School</description>
+	<Point><coordinates>172.762,-43.5765,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Diamond Harbour Library</name>
+	<description>Diamond Harbour Library</description>
+	<Point><coordinates>172.74,-43.628,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Coronation Library</name>
+	<description>Coronation Library</description>
+	<Point><coordinates>172.964,-43.8104,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Little River School</name>
+	<description>Little River School</description>
+	<Point><coordinates>172.796,-43.7655,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Little River Community Centre</name>
+	<description>Little River Community Centre</description>
+	<Point><coordinates>172.795,-43.7656,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Akaroa Hospital</name>
+	<description>Akaroa Hospital</description>
+	<Point><coordinates>172.961,-43.8155,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Institutional</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Akaroa Area School</name>
+	<description>Akaroa Area School</description>
+	<Point><coordinates>172.963,-43.8127,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Takamatua Reserve</name>
+	<description>Takamatua Reserve</description>
+	<Point><coordinates>172.97,-43.786,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Lyttelton Library</name>
+	<description>Lyttelton Library</description>
+	<Point><coordinates>172.721,-43.6043,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Okains Bay School</name>
+	<description>Okains Bay School</description>
+	<Point><coordinates>173.043,-43.7106,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Okains Bay Community Centre</name>
+	<description>Okains Bay Community Centre</description>
+	<Point><coordinates>173.042,-43.7113,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Governors Bay School</name>
+	<description>Governors Bay School</description>
+	<Point><coordinates>172.65,-43.6257,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Parklands Library</name>
+	<description>Parklands Library</description>
+	<Point><coordinates>172.707,-43.4835,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Te Hononga</name>
+	<description>Te Hononga</description>
+	<Point><coordinates>172.632,-43.5334,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Upper Riccarton Community and School Library</name>
+	<description>Upper Riccarton Community and School Library</description>
+	<Point><coordinates>172.563,-43.5367,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Hillmorton High School</name>
+	<description>Hillmorton High School</description>
+	<Point><coordinates>172.594,-43.5592,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Addington School</name>
+	<description>Addington School</description>
+	<Point><coordinates>172.619,-43.5502,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Christchurch South Intermediate School</name>
+	<description>Christchurch South Intermediate School</description>
+	<Point><coordinates>172.625,-43.5537,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Christchurch Girls' High School</name>
+	<description>Christchurch Girls' High School</description>
+	<Point><coordinates>172.611,-43.5265,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Oaklands School</name>
+	<description>Oaklands School</description>
+	<Point><coordinates>172.564,-43.574,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Gilberthorpe School</name>
+	<description>Gilberthorpe School</description>
+	<Point><coordinates>172.52,-43.5309,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Bishopdale Community Centre</name>
+	<description>Bishopdale Community Centre</description>
+	<Point><coordinates>172.586,-43.4916,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Waimairi School</name>
+	<description>Waimairi School</description>
+	<Point><coordinates>172.606,-43.506,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Bromley Community Centre</name>
+	<description>Bromley Community Centre</description>
+	<Point><coordinates>172.691,-43.5402,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Public</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Thorrington School</name>
+	<description>Thorrington School</description>
+	<Point><coordinates>172.637,-43.568,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Hornby Library</name>
+	<description>Hornby Library</description>
+	<Point><coordinates>172.522,-43.5465,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Cashmere High School</name>
+	<description>Cashmere High School</description>
+	<Point><coordinates>172.625,-43.5672,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Merivale Mall</name>
+	<description>Merivale Mall</description>
+	<Point><coordinates>172.621,-43.5143,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Retail</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Southern Cross Hospital</name>
+	<description>Southern Cross Hospital</description>
+	<Point><coordinates>172.635,-43.5221,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Chisnallwood Intermediate School</name>
+	<description>Chisnallwood Intermediate School</description>
+	<Point><coordinates>172.689,-43.5116,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>New Brighton Catholic School</name>
+	<description>New Brighton Catholic School</description>
+	<Point><coordinates>172.723,-43.5075,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Christchurch Public Hospital</name>
+	<description>Christchurch Public Hospital</description>
+	<Point><coordinates>172.626,-43.5358,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Windsor House Hospital &amp; Rest Home</name>
+	<description>Windsor House Hospital &amp; Rest Home</description>
+	<Point><coordinates>172.667,-43.5086,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Institutional</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Redwood Library</name>
+	<description>Redwood Library</description>
+	<Point><coordinates>172.616,-43.4791,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>George Manning House Hospital &amp; Rest Home</name>
+	<description>George Manning House Hospital &amp; Rest Home</description>
+	<Point><coordinates>172.611,-43.5624,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Other</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Akaroa Area School</name>
+	<description>Akaroa Area School</description>
+	<Point><coordinates>172.963,-43.8129,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>St Winifreds Hospital &amp; Rest Home</name>
+	<description>St Winifreds Hospital &amp; Rest Home</description>
+	<Point><coordinates>172.596,-43.5106,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Institutional</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Thorrington School</name>
+	<description>Thorrington School</description>
+	<Point><coordinates>172.637,-43.5678,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Shirley Intermediate School</name>
+	<description>Shirley Intermediate School</description>
+	<Point><coordinates>172.662,-43.5107,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Riccarton High School</name>
+	<description>Riccarton High School</description>
+	<Point><coordinates>172.565,-43.5378,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Cobham Intermediate School</name>
+	<description>Cobham Intermediate School</description>
+	<Point><coordinates>172.585,-43.5124,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Christchurch Boys' High School</name>
+	<description>Christchurch Boys' High School</description>
+	<Point><coordinates>172.6,-43.5266,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Ferndale School</name>
+	<description>Ferndale School</description>
+	<Point><coordinates>172.622,-43.5189,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Wairakei School</name>
+	<description>Wairakei School</description>
+	<Point><coordinates>172.588,-43.5017,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Branston Intermediate School</name>
+	<description>Branston Intermediate School</description>
+	<Point><coordinates>172.529,-43.5487,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Mairehau High School</name>
+	<description>Mairehau High School</description>
+	<Point><coordinates>172.648,-43.4955,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Hillmorton High School</name>
+	<description>Hillmorton High School</description>
+	<Point><coordinates>172.594,-43.5594,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Linwood Intermediate School</name>
+	<description>Linwood Intermediate School</description>
+	<Point><coordinates>172.673,-43.5313,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+  <Placemark>
+	<name>Casebrook Intermediate School</name>
+	<description>Casebrook Intermediate School</description>
+	<Point><coordinates>172.603,-43.4848,0</coordinates></Point>
+	<MetaData name="Data Type">Building</MetaData>
+	<MetaData name="Data Name">Educational</MetaData>
+  </Placemark>
+</Document>
+</kml>
