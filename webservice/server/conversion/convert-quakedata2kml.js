@@ -3,14 +3,16 @@ var csv = require('csv');
 var PD = require('pretty-data').pd;
 var format = require('string-template');
 
-var FILEPATH = __dirname+'/../../..';
-var INPUTFILE = FILEPATH+'/'+'20160214_001343.CSV';
-var OUTFILE = FILEPATH+'/'+'20160214_001343.kml';
+var DATASET = '20160127_232441';
+
+var FILEPATH = __dirname + '/../../data';
+var INPUTFILE = FILEPATH + '/' + DATASET + '.CSV';
+var OUTFILE = FILEPATH + '/' + DATASET + '.kml';
 
 var kmlDocTemplate = '<?xml version="1.0" encoding="UTF-8"?>\
   <kml xmlns="http://www.opengis.net/kml/2.2">\
   <Document>\
-  <name>20160214_001343.CSV</name>\
+  <name>{DATASET}.CSV</name>\
 <description>ftp://ftp.geonet.org.nz/strong/processed/Proc/2016/</description>\
   {PLACEMARKS}\
   </Document>\
@@ -38,16 +40,17 @@ var reader = fs.createReadStream(INPUTFILE);
 
 var parser = csv.parse({delimiter: ','});
 
-var transformer = csv.transform(function(data){
-  return data.map(function(value){
+var transformer = csv.transform(function (data) {
+  return data.map(function (value) {
     return value;
   });
 });
 
-reader.on('readable', function(){
-  while(data = reader.read()){
-    parser.write(data);
+reader.on('readable', function () {
+  while (data = reader.read()) {
+    parser.write(data)
   }
+  parser.end();
 });
 
 //
@@ -72,11 +75,11 @@ reader.on('readable', function(){
 // 18	Site Longitude	172.7313538
 // 19	Site Elevation (m)	0
 
-parser.on('readable', function(){
-  var places = '';
-  while(data = parser.read()){
-    // transformer.write(data);
-    var place = format(placeTemplate, {
+var output = [];
+parser.on('readable', function () {
+  var places = ''
+  while (data = parser.read()) {
+    places += format(placeTemplate, {
       'NAME': data[15],
       'DESCRIPTION': data[16],
       'LANG': data[18],
@@ -90,14 +93,33 @@ parser.on('readable', function(){
       'PGAH1': data[12],
       'PAGH2': data[13]
     });
-    places += place;
-
-    // process.stdout.write(PD.xml(place)+'\n')
   }
-  // save file
-  fs.writeFileSync(OUTFILE, PD.xml(format(kmlDocTemplate, {'PLACEMARKS': places})));
+  output.push(places)
 
-  // verify saved file content
-  process.stdout.write(fs.readFileSync(OUTFILE));
+  process.stdout.write('.');
 });
 
+// Catch any error
+parser.on('error', function (err) {
+  process.stdout.write(err.message);
+});
+
+// When we are done, write output to file
+parser.on('finish', function () {
+
+  // remove headers
+  output.shift()
+
+  var content = PD.xml(format(kmlDocTemplate, {
+    'PLACEMARKS': PD.xml(output.join('')),
+    'DATASET': DATASET
+  }))
+
+  // save file
+  fs.writeFileSync(OUTFILE, content, {flag: 'w'});
+
+  // print saved file content
+  process.stdout.write(fs.readFileSync(OUTFILE)+'\n');
+
+  process.stdout.write('finished')
+});
